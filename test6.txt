@@ -1,0 +1,7 @@
+don't forget git, please
+
+first, you must typing 'git add *' or 'git add file name'.
+second, git status : It is shows the current state of Git
+third, You must enter the 'git commit -m "Brief contents of this file"'
+forth, git push origin(It is git address) master(It is branch, maybe...)
+finally, you are enter the your github address and password.
